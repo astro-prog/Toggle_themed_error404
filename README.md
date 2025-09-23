@@ -2,9 +2,6 @@
 
 A beautifully designed, interactive 404 error page built with React, TypeScript, and Tailwind CSS. Features a unique light/dark mode toggle that transforms the entire page experience, complete with animated characters, spider web effects, and smooth transitions.
 
-# Deployement- 
-[View Website](https://togglethemeerror404.netlify.app/)
-
 ## ✨ Features
 
 - **Interactive Light Toggle**: Switch between dark and light modes with a custom toggle switch
@@ -129,6 +126,30 @@ This creates an optimized build in the `dist` folder ready for deployment.
 
 ## 📱 Browser Support
 
+## 📱 Mobile Responsive Design
+
+This 404 page is fully optimized for mobile devices and provides an excellent user experience across all screen sizes:
+
+### Mobile Optimizations
+- **Adaptive Text Sizing**: The large "404" text scales appropriately from `12rem` on mobile to `16rem` on desktop
+- **Touch-Friendly Controls**: The light toggle switch is sized and positioned for easy thumb interaction
+- **Responsive Padding**: Content padding adjusts automatically for comfortable viewing on smaller screens
+- **Character Positioning**: Animated characters reposition intelligently on mobile to avoid overlap
+- **Spider Web Scaling**: The spider web and hanging spider scale proportionally on all devices
+- **Ambient Effects**: Background lighting effects adapt to screen size for optimal performance
+
+### Breakpoint Strategy
+- **Mobile First**: Built with mobile-first responsive design principles
+- **Tailwind Breakpoints**: Utilizes Tailwind's responsive prefixes (`md:`, `lg:`) for seamless scaling
+- **Flexible Layouts**: Uses CSS Flexbox and Grid for fluid, adaptive layouts
+
+### Mobile Testing
+Tested extensively on:
+- iOS Safari (iPhone & iPad)
+- Android Chrome
+- Samsung Internet
+- Mobile Firefox
+
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
@@ -152,4 +173,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-Built with ❤️ [@astro-prog](https://github.com/astro-prog)
+Built with ❤️ by [@astro-prog](https://github.com/astro-prog)
