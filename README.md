@@ -3,7 +3,7 @@
 A beautifully designed, interactive 404 error page built with React, TypeScript, and Tailwind CSS. Features a unique light/dark mode toggle that transforms the entire page experience, complete with animated characters, spider web effects, and smooth transitions.
 
 # Deployement
-  [View Website](https://app.netlify.com/projects/togglethemeerror404/overview)
+  [View Website](https://togglethemeerror404.netlify.app/)
   
 ## ✨ Features
 
